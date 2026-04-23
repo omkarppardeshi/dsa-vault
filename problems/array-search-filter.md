@@ -62,9 +62,7 @@ export default function SearchFilter() {
         </div>
     );
 }
-
-
----
+```
 
 ### What I fixed (quick summary)
 - Removed duplicate content ❌
@@ -72,7 +70,3 @@ export default function SearchFilter() {
 - Made approach correct (you were actually using **case-insensitive**, not case-sensitive)
 - Changed `React` code block → `jsx` (better highlighting)
 - Improved formatting and readability
-
----
-
-If you want, I can also help you convert this into a **blog-ready UI for your portfolio** (since you're building one 👀).
