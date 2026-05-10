@@ -3,7 +3,7 @@ title: JavaScript Destructuring Exercises
 slug: js-destructuring-exercises
 difficulty: Easy
 tags: [Destructuring, Array, Object, ES6]
-companies: []
+companies: [Practice Problem]
 topic: JavaScript
 solved: true
 date: 2026-04-21

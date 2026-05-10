@@ -3,6 +3,7 @@ title: "Map & Set Problems"
 slug: map-set-problem
 topic: "Map & Set"
 difficulty: "Easy - Medium"
+companies: [Practice Problem]
 tags: ["Map", "Set", "Frequency", "Two Pointer", "String", "Array"]
 solved: true
 date: 2026-05-10

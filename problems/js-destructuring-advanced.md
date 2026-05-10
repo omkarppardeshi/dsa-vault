@@ -3,7 +3,7 @@ title: JavaScript Destructuring - Advanced Q&A
 slug: js-destructuring-advanced
 difficulty: Medium
 tags: [Destructuring, Array, Object, ES6, Rest, Nested]
-companies: []
+companies: [Practice Problem]
 topic: JavaScript
 solved: true
 date: 2026-04-21
