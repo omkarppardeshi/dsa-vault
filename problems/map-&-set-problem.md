@@ -1,5 +1,5 @@
 ---
-title: "Map & Set Problems"
+title: "map & set problem"
 topic: "Map & Set"
 difficulty: "Easy - Medium"
 tags: ["Map", "Set", "Frequency", "Two Pointer", "String", "Array"]
